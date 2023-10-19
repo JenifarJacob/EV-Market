@@ -1,6 +1,6 @@
 ## Electric-Vehicle-Market-Segmentation
 
-This is a team task where the job is to analyse the Electric Vehicle market in India using Segmentation analysis and come up with a feasible strategy to enter the market, targeting the segments most likely to use Electric vehicles. 
+This is a task where the job is to analyse the Electric Vehicle market in India using Segmentation analysis and come up with a feasible strategy to enter the market, targeting the segments most likely to use Electric vehicles. 
 
 The following datsets are used to come up with segments to target:
 1. Geographic & Vehicle Space Segmentation.
@@ -25,9 +25,6 @@ Segment 2: These are people who woul opt for eco and budget friendly Electric Ve
 
 This datset consists of vehcile specifications such as its range, efficiency, top speed and the type of drive. 
 
-## Contributors 
-[@Haseebae](https://github.com/Haseebae)
-[@Pratiksha Rale](https://github.com/Pratiksha228)
 
 ## Some Visualizations:
 
